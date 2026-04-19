@@ -1,0 +1,8 @@
+Search 1.3
+
+-Adequate to begin building search aggregator without compromising SSL or site security
+(POST only, NO GET)
+-Contains optional variables for end-users
+-Blank canvas, ready for formatting
+-Works for searching PUBLICLY available data
+-Files can be combined into aggregated search tool
